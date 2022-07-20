@@ -1,0 +1,8 @@
+.my-custom-interface .select-interface-option {
+    background-color: rgba(145, 202, 145, 0.622);
+  }
+
+.select{
+  background-color: rgba(145, 202, 145, 0.622);
+  border-radius: 0.5em;
+}

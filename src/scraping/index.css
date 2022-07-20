@@ -1,0 +1,11 @@
+.actif{
+    color: rgb(2, 34, 2);
+    font-weight: bolder;
+    background-color: rgba(145, 202, 145, 0.622);
+    border-radius: 20%;
+}
+
+.litel{
+    font-size:small;
+}
+

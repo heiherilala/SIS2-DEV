@@ -1,0 +1,21 @@
+.ote{
+    background-color: rgb(74, 147, 67);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.child{
+    height: 50%;
+    transform: scale(5);
+    color: green;
+    background-color: blue;
+}
+
+.transparent{
+    background-color: rgba(0, 0, 255, 0);
+}
+
+.transparent *{
+    background-color: rgba(0, 0, 255, 0);
+}

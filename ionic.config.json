@@ -1,0 +1,7 @@
+{
+  "name": "scratch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
